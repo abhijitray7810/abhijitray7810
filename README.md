@@ -31,11 +31,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Abhijit’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijtray7810&show_icons=true&theme=radical)
-
----
-
 ## 🔥 Current Focus
 - 🎯 **CKA** exam preparation (target: Nov 2025)  
 - 🔧 Building a **multi-tenant EKS platform** with OPA Gatekeeper & Kyverno policies  
