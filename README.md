@@ -52,7 +52,7 @@
 ## 🔥 Current Focus
 - 🎯 **CKA** exam preparation (target: Nov 2025)
 - 🔧 Building a **multi-tenant EKS platform** with OPA Gatekeeper & Kyverno policies
-- 📝 Blogging **DevOps best-practices** on [Medium](https://medium.com/@abhijitray) (articles coming soon)
+- 
 
 ---
 
