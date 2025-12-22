@@ -2,22 +2,6 @@
 **Cloud & DevOps Engineer** | AWS Certified | Kubernetes • Docker • Terraform • CI/CD
 
 ---
-
-## 🔗 Quick Links
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijit-ray-336442295/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abhijitray7810)
-
----
-
-## 🚀 About Me
-- **1+ years** building and automating cloud-native solutions.
-- AWS **Well-Architected** certified with hands-on experience in **EKS, EC2, S3, RDS, IAM, CloudWatch, Lambda**.
-- Strong believer in **Infrastructure-as-Code** (Terraform, CloudFormation) and **GitOps** workflows.
-- Daily tools: **Kubernetes, Docker, Jenkins, Ansible, Prometheus, Grafana, Helm, ArgoCD**.
-- Currently enhancing **observability & cost-optimization** practices for a large-scale Aramco deployment.
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -35,6 +19,23 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
+
+---
+
+## 🚀 About Me
+- **1+ years** building and automating cloud-native solutions.
+- AWS **Well-Architected** certified with hands-on experience in **EKS, EC2, S3, RDS, IAM, CloudWatch, Lambda**.
+- Strong believer in **Infrastructure-as-Code** (Terraform, CloudFormation) and **GitOps** workflows.
+- Daily tools: **Kubernetes, Docker, Jenkins, Ansible, Prometheus, Grafana, Helm, ArgoCD**.
+- Currently enhancing **observability & cost-optimization** practices for a large-scale Aramco deployment.
+
+---
+
+## 🛠️ Tech Stack
+
+## 🔗 Quick Links
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijit-ray-336442295/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abhijitray7810)
 
 | Category | Tools & Services |
 |-----------------|----------------------------------------------------------------------------------|
