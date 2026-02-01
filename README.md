@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhijit Ray
 
-**Cloud & DevOps Engineer** | AWS Certified | Building scalable infrastructure with Kubernetes, Docker & Terraform
+**Cloud & DevOps Engineer** | AWS Certified | Building scalable infrastructure with Kubernetes, Docker & Terraform 
 
 ---
 
