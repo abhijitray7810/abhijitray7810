@@ -84,7 +84,7 @@ Feel free to reach out for discussions on cloud architecture, DevOps best practi
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhijitray7810&color=orange&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=abhijitray7810&color=orange&style=flat-square" alt="Profile Views"/> 
 </p>
 
 <p align="center">
