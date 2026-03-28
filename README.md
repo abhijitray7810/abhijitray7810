@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhijit%20Ray&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Platform%20Builder&descAlignY=54&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhijit%20Ray&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Platform%20Builder&descAlignY=54&descSize=16" width="100%"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Cloud+%26+DevOps+Engineer+%F0%9F%9A%80;AWS+Certified+%7C+OCI+2025+Certified+%E2%98%81%EF%B8%8F;Kubernetes+%7C+Terraform+%7C+GitOps+%F0%9F%94%A7;Platform+Engineering+Mindset+%F0%9F%8F%97%EF%B8%8F;Automating+Everything%2C+Monitoring+Always+%F0%9F%93%8A)](https://git.io/typing-svg)
@@ -213,7 +213,7 @@ philosophy:     Automate everything. Measure what matters. Build for scale.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijitray7810&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=abhijitray7810&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 
 </div>
 
@@ -306,7 +306,7 @@ I'm actively looking for:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 *💡 "Automate everything. Measure what matters. Build for scale. Optimize continuously."*
 
