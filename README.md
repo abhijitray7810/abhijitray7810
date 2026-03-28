@@ -1,43 +1,69 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhijit%20Ray&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Platform%20Builder&descAlignY=54&descSize=16" width="100%"/>
+<!-- HEADER: svg-banners — reliable, no rate limits -->
+<img src="https://svg-banners.vercel.app/api?type=luminance&text1=Abhijit%20Ray&text2=%F0%9F%9A%80%20Cloud%20%26%20DevOps%20Engineer&width=900&height=200" width="100%" alt="Header Banner"/>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Cloud+%26+DevOps+Engineer+%F0%9F%9A%80;AWS+Certified+%7C+OCI+2025+Certified+%E2%98%81%EF%B8%8F;Kubernetes+%7C+Terraform+%7C+GitOps+%F0%9F%94%A7;Platform+Engineering+Mindset+%F0%9F%8F%97%EF%B8%8F;Automating+Everything%2C+Monitoring+Always+%F0%9F%93%8A)](https://git.io/typing-svg)
+<!-- Typing Animation — demolab is stable -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=☁️+AWS+Certified+%7C+OCI+2025+Certified;⚙️+Kubernetes+%7C+Terraform+%7C+GitOps;🏗️+Platform+Engineering+%7C+EKS+%7C+Docker;📊+Prometheus+%7C+Grafana+%7C+Observability;🔐+OPA+Gatekeeper+%7C+Kyverno+%7C+IAM)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Profile Stats Row -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijit-ray-336442295/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhijitray7810)
-[![Email](https://img.shields.io/badge/Gmail-roy055659@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roy055659@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-roy055659@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roy055659@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=abhijitray7810&color=00D9FF&style=for-the-badge&label=Profile+Views)](https://github.com/abhijitray7810)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-> *"Don't just deploy infrastructure — engineer reliable platforms that solve real business problems."*
+<table>
+<tr>
+<td width="55%">
 
-I'm a **Cloud & DevOps Engineer** with **1+ years** of hands-on experience building, automating, and scaling cloud-native systems. Based in **Kolkata, India**, I specialize in designing production-grade, cost-optimized infrastructure using modern DevOps practices.
+### 🚀 Who Am I?
 
-```yaml
-name:           Abhijit Ray
-location:       Kolkata, India 🇮🇳
-role:           Cloud & DevOps Engineer | Platform Engineer
-experience:     1+ years (hands-on, production environments)
-certifications:
-  - AWS Certified (Well-Architected)
-  - Oracle Cloud Infrastructure (OCI) 2025 DevOps Professional
-currently:
-  - Preparing for CKA (Certified Kubernetes Administrator)
-  - Building Multi-Tenant EKS Platform with Policy Enforcement
-  - Architecting Cloud Cost Optimization Framework
-philosophy:     Automate everything. Measure what matters. Build for scale.
-```
+Hi! I'm **Abhijit Ray**, a Cloud & DevOps Engineer from **Kolkata, India 🇮🇳**
+
+I have **1+ years of hands-on experience** designing and automating cloud-native systems. My focus is not just deploying infrastructure — but **engineering reliable, scalable platforms** that solve real business problems.
+
+**What I do every day:**
+- 🏗️ Build & manage **production-grade Kubernetes (EKS)** clusters
+- ⚙️ Automate infrastructure with **Terraform + Ansible + GitOps**
+- 🔄 Design **CI/CD pipelines** — Jenkins, GitHub Actions, ArgoCD
+- 📊 Build **observability stacks** — Prometheus, Grafana, CloudWatch
+- 🔐 Enforce **security & policy compliance** with OPA Gatekeeper & Kyverno
+- 💰 Drive **cloud cost optimization** for enterprise deployments
+
+</td>
+<td width="45%" align="center">
+
+### 🧩 Quick Facts
+
+| | |
+|---|---|
+| 📍 Location | Kolkata, India |
+| 💼 Role | Cloud & DevOps Engineer |
+| 🗂️ Repos | 41+ Public on GitHub |
+| 🏆 GitHub | Pull Shark 🦈 · YOLO 🎲 |
+| ✅ Certified | AWS Well-Architected |
+| ✅ Certified | OCI 2025 DevOps Pro |
+| 🎯 In Progress | CKA Certification |
+| 📊 Contributions | 2,344 total (since May 2024) |
+| 🔥 Longest Streak | 132 days |
+| 🌐 Open To | Remote / Hybrid Roles |
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+> 💬 *"Automate everything. Measure what matters. Build for scale. Optimize continuously."*
+
+</div>
 
 ---
 
@@ -45,55 +71,63 @@ philosophy:     Automate everything. Measure what matters. Build for scale.
 
 <div align="center">
 
-| Certification | Issuer | Status |
+| 🎖️ Certification | 🏢 Issuer | 📌 Status |
 |---|---|---|
-| ☁️ AWS Well-Architected | Amazon Web Services | ✅ Certified |
-| 🔷 OCI 2025 DevOps Professional | Oracle Cloud | ✅ Certified |
-| ⚙️ CKA — Certified Kubernetes Administrator | CNCF / Linux Foundation | 🎯 In Progress |
+| ☁️ AWS Well-Architected | Amazon Web Services | ✅ **Certified** |
+| 🔷 OCI 2025 DevOps Professional | Oracle Cloud Infrastructure | ✅ **Certified** |
+| ⚙️ CKA — Certified Kubernetes Administrator | CNCF / Linux Foundation | 🎯 **In Progress** |
+| 🔑 AWS Solutions Architect Associate (SAA-C03) | Amazon Web Services | 🔜 **Planned** |
+
+**GitHub Achievements:** &nbsp; 🦈 Pull Shark &nbsp;·&nbsp; 🎲 YOLO
 
 </div>
 
-**GitHub Achievements:** 🦈 Pull Shark &nbsp;|&nbsp; 🎲 YOLO
-
 ---
 
-## 🛠️ Full Technology Stack
+## 🛠️ Technology Stack
 
 <div align="center">
 
-### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+**☁️ Cloud Platforms**
 
-### 📦 Containers & Orchestration
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**📦 Containers & Orchestration**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 🔄 CI/CD & GitOps
+**🔄 CI/CD & GitOps**
+
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### 🏗️ Infrastructure as Code
+**🏗️ Infrastructure as Code**
+
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F00?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 📊 Monitoring & Observability
+**📊 Monitoring & Observability**
+
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F00?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F00?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 
-### 🔐 Security & Policy
-![OPA](https://img.shields.io/badge/OPA_Gatekeeper-4B5568?style=for-the-badge&logo=openpolicyagent&logoColor=white)
-![Kyverno](https://img.shields.io/badge/Kyverno-1F4F9D?style=for-the-badge&logo=kubernetes&logoColor=white)
-![IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+**🔐 Security & Policy**
 
-### 💻 Scripting & Development
+![OPA Gatekeeper](https://img.shields.io/badge/OPA_Gatekeeper-4B5568?style=for-the-badge&logo=openpolicyagent&logoColor=white)
+![Kyverno](https://img.shields.io/badge/Kyverno-1F4F9D?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**💻 Scripting & Development**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -107,97 +141,85 @@ philosophy:     Automate everything. Measure what matters. Build for scale.
 
 <details>
 <summary><b>🔹 Cloud-Native Microservices Platform on AWS EKS</b></summary>
-
 <br/>
 
-**Stack:** AWS EKS · Docker · Kubernetes · Helm · Terraform · Prometheus · Grafana
+**Stack:** `AWS EKS` `Docker` `Kubernetes` `Helm` `Terraform` `Prometheus` `Grafana`
 
 - Designed and deployed a **production-grade microservices architecture** on Amazon EKS
-- Implemented **Horizontal Pod Autoscaler (HPA)** and **Cluster Autoscaler** for dynamic scaling
+- Implemented **HPA** and **Cluster Autoscaler** for dynamic scaling
 - Configured **rolling deployments & canary releases** for zero-downtime updates
 - Built full **observability stack** with Prometheus metrics and Grafana dashboards
 - Used **Helm charts** for templated, reusable Kubernetes deployments
 
-**Impact:** Reduced deployment downtime to near-zero; improved scalability by 5x under load
-
+> 🎯 **Impact:** Deployment downtime → near-zero · Scalability improved 5x under peak load
 </details>
 
 <details>
 <summary><b>🔹 End-to-End CI/CD Automation Pipeline</b></summary>
-
 <br/>
 
-**Stack:** Jenkins · GitHub Actions · ArgoCD · Docker · Kubernetes · SonarQube
+**Stack:** `Jenkins` `GitHub Actions` `ArgoCD` `Docker` `Kubernetes` `SonarQube`
 
-- Built fully automated pipelines covering: **Build → Test → Security Scan → Container Build → Deploy**
+- Built fully automated pipelines: **Build → Test → Security Scan → Container Build → Deploy**
 - Integrated **ArgoCD** for GitOps-based continuous delivery to Kubernetes clusters
-- Added **SonarQube** static code analysis and container vulnerability scanning stages
+- Added **SonarQube** static code analysis and container vulnerability scanning
 - Enabled **multi-environment promotion** (dev → staging → prod) with approval gates
 
-**Impact:** Reduced release cycle from hours to under 10 minutes; increased deployment confidence
-
+> 🎯 **Impact:** Release cycle: hours → under 10 minutes · Deployment confidence increased significantly
 </details>
 
 <details>
 <summary><b>🔹 Reusable Terraform Infrastructure Modules</b></summary>
-
 <br/>
 
-**Stack:** Terraform · AWS (EKS, VPC, IAM, RDS, S3) · GitHub Actions
+**Stack:** `Terraform` `AWS EKS` `VPC` `IAM` `RDS` `S3` `GitHub Actions`
 
-- Authored **modular, reusable Terraform modules** for EKS clusters, VPC networking, and IAM policies
+- Authored **modular Terraform modules** for EKS clusters, VPC networking, and IAM
 - Implemented **remote state management** with S3 backend and DynamoDB state locking
 - Enabled **consistent environment provisioning** across dev, staging, and production
-- Automated Terraform `plan` and `apply` via GitHub Actions workflows
+- Automated Terraform `plan` and `apply` via GitHub Actions CI workflows
 
-**Impact:** Reduced infrastructure provisioning time from days to under 30 minutes; eliminated configuration drift
-
+> 🎯 **Impact:** Infrastructure provisioning: days → under 30 minutes · Zero configuration drift
 </details>
 
 <details>
 <summary><b>🔹 Observability & Monitoring Stack</b></summary>
-
 <br/>
 
-**Stack:** Prometheus · Grafana · AWS CloudWatch · ELK Stack · Alertmanager
+**Stack:** `Prometheus` `Grafana` `AWS CloudWatch` `ELK Stack` `Alertmanager`
 
-- Deployed **Prometheus + Grafana** monitoring for Kubernetes cluster and application metrics
-- Built **custom dashboards** tracking CPU, memory, pod health, request latency, and error rates
-- Integrated **Alertmanager** with PagerDuty/Slack for real-time incident notifications
-- Centralized logs using **ELK Stack** for searchable, long-term log retention
+- Deployed **Prometheus + Grafana** for real-time Kubernetes and application metrics
+- Built **custom dashboards** tracking CPU, memory, pod health, request latency, error rates
+- Integrated **Alertmanager** with Slack for real-time incident notifications
+- Centralized logs with **ELK Stack** for searchable, long-term retention
 
-**Impact:** Reduced mean time to detect (MTTD) incidents significantly; improved system reliability
-
+> 🎯 **Impact:** Significant reduction in mean time to detect (MTTD) incidents
 </details>
 
 <details>
-<summary><b>🔹 Multi-Tenant EKS Platform with Policy Enforcement <i>(In Progress 🚧)</i></b></summary>
-
+<summary><b>🔹 Multi-Tenant EKS Platform with Policy Enforcement 🚧</b></summary>
 <br/>
 
-**Stack:** AWS EKS · OPA Gatekeeper · Kyverno · Namespace isolation · RBAC
+**Stack:** `AWS EKS` `OPA Gatekeeper` `Kyverno` `RBAC` `Namespace Isolation`
 
 - Designing a **multi-tenant Kubernetes platform** with strict namespace isolation
-- Implementing **admission controllers** (OPA Gatekeeper & Kyverno) for policy enforcement
-- Enforcing security policies: mandatory labels, resource limits, image registries, network policies
+- Implementing **admission controllers** for mandatory labels, resource limits, image policies
 - Building a **self-service onboarding flow** for tenant teams with guardrails
 
-**Impact:** Target — enable secure multi-team workload isolation on shared Kubernetes clusters
-
+> 🎯 **Target:** Secure multi-team workload isolation on shared Kubernetes clusters
 </details>
 
 <details>
-<summary><b>🔹 Cloud Cost Optimization Engine <i>(In Progress 🚧)</i></b></summary>
-
+<summary><b>🔹 Cloud Cost Optimization Engine 🚧</b></summary>
 <br/>
 
-**Stack:** AWS Cost Explorer API · Python · Lambda · Terraform · CloudWatch
+**Stack:** `AWS Cost Explorer API` `Python` `Lambda` `Terraform` `CloudWatch`
 
-- Building an automated system to **detect idle/underutilized AWS resources**
+- Building automated detection of **idle/underutilized AWS resources**
 - Generating **rightsizing recommendations** for EC2, RDS, and EKS node groups
-- Automating **cost reporting dashboards** with weekly summaries
-- Target: achieve **30%+ infrastructure cost reduction**
+- Automating **weekly cost reporting dashboards**
 
+> 🎯 **Target:** 30%+ infrastructure cost reduction
 </details>
 
 ---
@@ -206,20 +228,15 @@ philosophy:     Automate everything. Measure what matters. Build for scale.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhijitray7810&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitray7810&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abhijitray7810&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitray7810&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=abhijitray7810&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=abhijitray7810&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://streak-stats.demolab.com/?user=abhijitray7810&theme=tokyonight&hide_border=true" width="600" alt="GitHub Streak"/>
 
 </div>
 
@@ -229,28 +246,28 @@ philosophy:     Automate everything. Measure what matters. Build for scale.
 
 <div align="center">
 
-[![Abhijit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhijitray7810&theme=tokyo-night&hide_border=true&area=true&custom_title=2025-2026%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijitray7810&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=2025-2026%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
 
 </div>
 
-> 🔥 Consistently active across **2025 and 2026** — building real-world DevOps projects, contributing to infrastructure automation, and expanding cloud-native expertise.
+> 🔥 **2,344 total contributions** since May 2024 &nbsp;·&nbsp; **132-day longest streak** &nbsp;·&nbsp; Active every month through 2025 and 2026
 
 ---
 
 ## 🎯 Roadmap — 2025 → 2026
 
 ```
-✅ AWS Well-Architected Certified
-✅ OCI 2025 DevOps Professional Certified
-✅ Built production-grade EKS + CI/CD + IaC projects
-✅ 41+ public repositories on GitHub
+✅  AWS Well-Architected Certified
+✅  OCI 2025 DevOps Professional Certified
+✅  Production-grade EKS + CI/CD + IaC projects shipped
+✅  41+ public repositories · 2,344 total contributions · 132-day streak
 
-🚧 CKA (Certified Kubernetes Administrator)         → Target: Mid-2026
-🚧 Multi-Tenant EKS Platform (OPA + Kyverno)        → In Progress
-🚧 Cloud Cost Optimization Automation Engine        → In Progress
-🔜 AWS Solutions Architect – Associate (SAA-C03)    → Planned
-🔜 Contribute to CNCF / open-source cloud projects  → Planned
-🔜 Platform Engineering deep-dive (Backstage, IDP)  → Planned
+🚧  CKA — Certified Kubernetes Administrator          → Target: Mid-2026
+🚧  Multi-Tenant EKS Platform (OPA + Kyverno)         → In Progress
+🚧  Cloud Cost Optimization Automation Engine         → In Progress
+🔜  AWS Solutions Architect – Associate (SAA-C03)     → Planned
+🔜  CNCF / Open-Source Contributions                  → Planned
+🔜  Platform Engineering — Backstage / IDP            → Planned
 ```
 
 ---
@@ -290,15 +307,15 @@ philosophy:     Automate everything. Measure what matters. Build for scale.
 ## 🤝 Let's Connect & Collaborate
 
 I'm actively looking for:
-- 💼 **DevOps / Cloud / Platform Engineering roles** (remote or hybrid)
-- 🌍 **Collaborations** on cloud-native and open-source DevOps projects
-- 🤝 **Mentorship & community** in the Kubernetes / CNCF ecosystem
+- 💼 **DevOps / Cloud / Platform Engineering roles** — remote or hybrid
+- 🌍 **Open-source collaborations** in the cloud-native / CNCF ecosystem
+- 🤝 **Mentorship & community** in Kubernetes and DevOps
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhijit_Ray-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijit-ray-336442295/)
 [![GitHub](https://img.shields.io/badge/GitHub-abhijitray7810-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhijitray7810)
-[![Email](https://img.shields.io/badge/Gmail-roy055659@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roy055659@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-roy055659@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roy055659@gmail.com)
 
 </div>
 
@@ -306,10 +323,8 @@ I'm actively looking for:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+![Footer](https://img.shields.io/badge/Thanks%20for%20visiting!-⭐%20Star%20a%20repo%20if%20it%20helps%20you-00D9FF?style=for-the-badge)
 
 *💡 "Automate everything. Measure what matters. Build for scale. Optimize continuously."*
-
-⭐ **If you find my work useful, consider starring some repositories!**
 
 </div>
