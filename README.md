@@ -27,7 +27,7 @@
 
 Hi! I'm **Abhijit Ray**, a Cloud & DevOps Engineer from **Kolkata, India 🇮🇳**
 
-I have **1+ years of hands-on experience** designing and automating cloud-native systems. My focus is not just deploying infrastructure — but **engineering reliable, scalable platforms** that solve real business problems.
+I have **2+ years of hands-on experience** designing and automating cloud-native systems. My focus is not just deploying infrastructure — but **engineering reliable, scalable platforms** that solve real business problems.
 
 **What I do every day:**
 - 🏗️ Build & manage **production-grade Kubernetes (EKS)** clusters
