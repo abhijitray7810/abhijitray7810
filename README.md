@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <!-- HEADER: svg-banners — reliable, no rate limits -->
 <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Abhijit%20Ray&text2=%F0%9F%9A%80%20Cloud%20%26%20DevOps%20Engineer&width=900&height=200" width="100%" alt="Header Banner"/>
 
