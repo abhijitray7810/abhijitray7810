@@ -310,7 +310,7 @@ I'm actively looking for:
 - 💼 **DevOps / Cloud / Platform Engineering roles** — remote or hybrid
 - 🌍 **Open-source collaborations** in the cloud-native / CNCF ecosystem
 - 🤝 **Mentorship & community** in Kubernetes and DevOps
-
+ 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhijit_Ray-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijit-ray-336442295/)
