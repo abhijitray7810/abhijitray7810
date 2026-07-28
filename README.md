@@ -208,7 +208,7 @@ I have **2+ years of hands-on experience** designing and automating cloud-native
 
 > 🎯 **Target:** Secure multi-team workload isolation on shared Kubernetes clusters
 </details>
-
+ 
 <details>
 <summary><b>🔹 Cloud Cost Optimization Engine 🚧</b></summary>
 <br/>
